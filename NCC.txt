@@ -6,7 +6,7 @@
 
 
 label here 
-variable varloop loop 800
+variable varloop loop 400
 
  
 clear 
